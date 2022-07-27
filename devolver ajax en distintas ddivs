@@ -1,0 +1,2 @@
+ var x=$(DivResultado).html();
+      $("#DivDondeSeCargaResultado").html(x);
